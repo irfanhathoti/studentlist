@@ -1,0 +1,112 @@
+.parent
+{
+    background-color: aquamarine;
+    padding: 5px;
+    /* text-align: center; */
+}
+.home
+{
+    text-decoration: none;
+    font-size: 25px;
+    color: chocolate;
+    padding: 10px;
+    margin-left: 350px;
+}
+.student
+{
+    text-decoration: none;
+    font-size: 25px;
+    color: chocolate;
+    padding: 10px;
+    margin-left: 200px;
+}
+.contact
+{
+    text-decoration: none;
+    font-size: 25px;
+    color: chocolate;
+    padding: 10px;
+    margin-left: 200px;
+}
+.student:hover{
+    color: chocolate;
+}
+.contact:hover{
+    color: chocolate;
+}
+.home:hover
+{
+    color: chocolate;
+}
+.fa-whatsapp
+{
+    font-size: 33px;
+}
+.number
+{
+    font-size: 22px;
+    margin-left: 20px;
+    padding: 5px;
+}
+.whats{
+    padding: 5px;
+    background-color: white;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.body
+{
+    background-color: cyan;
+    width: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    height: 300px;
+    padding: 20px;
+    justify-content: center;
+    margin-left: 520px;
+}
+.cont{
+    font-size: 25px;
+    background-color: white;
+    border-radius: 5px;
+    height: 50px;
+    width: 280px;
+    padding: 5px;
+}
+.email
+{
+    font-size: 25px;
+    padding: 5px;
+    background-color: white;
+    height: 50px;
+    width: 280px;
+    border-radius: 5px;
+
+}
+.parent1
+{
+    /* text-align: center; */
+    margin-top: 30px;
+}
+.insta
+{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    height: 50px;
+    width: 280px;
+    font-size: 25px;
+}
+.text
+{
+    margin-left: 20px;
+}
+h2{
+    text-align: center;
+}
+.btn
+{
+    margin: 30px;
+}
